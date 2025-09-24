@@ -105,4 +105,3 @@ Uses openai/gpt-oss-120b on Groq — a model that supports tool calling
 MIT License © 2025 [B Lakshman Reddy]
 
 
-Do you want me to also add **badges** (like Python version, license, Groq API, etc.) at the top to make it look even more professional?
